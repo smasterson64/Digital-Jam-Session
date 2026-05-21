@@ -41,6 +41,7 @@ BUILDING AND RUNNING:
    to run the program. 
 
 CONTROLS:
+
     Click on the Start button to change from the menu state to the game state
     TAB: switch between instruments. The active instrument is drawn with a bounding box
     Z: Play a concert C  pitch on your selected instrument
