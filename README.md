@@ -30,14 +30,14 @@ BUILDING AND RUNNING:
    To compile the code, you can use the following commands
    from the AS6 folder:
 
-   mkdir build
-   cd build
-   cmake ..
-   make
+       mkdir build
+       cd build
+       cmake ..
+       make
 
    After running "make" you can type
 
-   ./aS6
+       ./aS6
    to run the program. 
 
 CONTROLS:
